@@ -6,7 +6,6 @@
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
     "@testing-library/user-event": "^7.1.2",
-    "babel-jest": "^24.9.0",
     "firebase": "^7.13.1",
     "node-sass": "^4.13.1",
     "react": "^16.13.0",
@@ -14,9 +13,7 @@
     "react-router-dom": "^5.1.2",
     "react-scripts": "3.4.0"
   },
-  "resolutions": {
-    "babel-jest": "24.7.1"
-  },
+  "resolutions": {},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
